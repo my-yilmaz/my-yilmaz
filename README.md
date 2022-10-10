@@ -5,9 +5,7 @@
 - 🌱 I am currently working on Automation Engineer projects to improve my skills.
 - 👯  I've learned Selenium and I'm improving myself in other tools
 - 💬 I want to collaborate on automation test project
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [<img width="22" src="https://camo.githubusercontent.com/2fc2e7a948507e4a8d95c2c61cafa5210e9724108f92bec17c53eeb43d3d78d7/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076372f69636f6e732f6c696e6b6564696e2e737667" align="left" />][linkedin]
 
 As an Automation engineer, I develop projects with both Java and JavaScript as an Automation engineer with Selenium, Appium, Cypress, API, SQL.
 
