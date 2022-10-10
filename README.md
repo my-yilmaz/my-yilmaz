@@ -7,7 +7,6 @@
 - 💬 I want to collaborate on automation test project
 
 As an Automation engineer, I develop projects with both Java and JavaScript as an Automation engineer with Selenium, Appium, Cypress, API, SQL.
-
 <br />
 
 #### ☎ Reach out to me:
@@ -31,8 +30,7 @@ As an Automation engineer, I develop projects with both Java and JavaScript as a
 <br />
 
 ## 💻 Tools
-<img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" width="25" height="25">
-<img src="https://camo.githubusercontent.com/0dc33afe07ce371abe4acacba5820cc1aacfe201909f01a2c66e75edafc19ff7/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351616b2d4e385730336d4b3235736c56316c774d3830693079316f625250504a4f614c4126757371703d434155" width="50" height="25">
+<img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" width="25" height="25"><img src="https://camo.githubusercontent.com/0dc33afe07ce371abe4acacba5820cc1aacfe201909f01a2c66e75edafc19ff7/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351616b2d4e385730336d4b3235736c56316c774d3830693079316f625250504a4f614c4126757371703d434155" width="50" height="25">
 <img src="https://camo.githubusercontent.com/1df2f779d1a54d3762158119a602c2d659efdb1a3717102b26061e55344571b1/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635378746e59776576434e7943426274695241734f5a67687369336e6d7a7a434731486f5126757371703d434155" width="50" height="25">
 <img src="https://raw.githubusercontent.com/SmartBear/soapui/next/SoapUI-oss-logo.png" width="50" height="25">
 <img src="https://camo.githubusercontent.com/49d3fe532cd82d8b0d1c2bc630672a8cf4608ee3a9305069d5b2c9c89e5ddafa/68747470733a2f2f7777772e73656d6968647572616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31322f706f73746d616e2e6a7067" width="40" height="25">
