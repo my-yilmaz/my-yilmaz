@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Muhammed YILMAZ. :blush:
+### Hi there 👋 I'm Muhammed. :blush:
 ## Test Automation Engineer || QA Engineer
 
 - 🔭 I am experienced in Automation Engineer
