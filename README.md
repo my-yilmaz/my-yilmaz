@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Muhammed. :blush:
 ## Test Automation Engineer || QA Engineer
 
-<!--
 - 🔭 I am experienced in Automation Engineer
 - 🌱 I am currently working on Automation Engineer projects to improve my skills.
 - 👯  I've learned Selenium and I'm improving myself in other tools
@@ -11,7 +10,6 @@
 - ⚡ Fun fact: ...
 
 As an Automation engineer, I develop projects with both Java and JavaScript as an Automation engineer with Selenium, Appium, Cypress, API, SQL.
--->
 
 <br />
 
